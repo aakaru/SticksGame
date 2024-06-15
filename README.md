@@ -25,7 +25,7 @@ A simple command-line game written in Go where two players take turns picking up
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
 ## Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
