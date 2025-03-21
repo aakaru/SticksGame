@@ -1,4 +1,3 @@
-// There are 12 sticks in total. Two players can play this game. each player can pick up maximum 3 sticks. the player to pick up the last stick wins.
 package main
 
 import (
